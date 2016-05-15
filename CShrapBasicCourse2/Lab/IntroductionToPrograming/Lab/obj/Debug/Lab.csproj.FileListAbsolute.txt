@@ -1,0 +1,1 @@
+D:\Softuni\C#BasicCourse2\Lab\Lab\bin\Debug\Lab.exe.config

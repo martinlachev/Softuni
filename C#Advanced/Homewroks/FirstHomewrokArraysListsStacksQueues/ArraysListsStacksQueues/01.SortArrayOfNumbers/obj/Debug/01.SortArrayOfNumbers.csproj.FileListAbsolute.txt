@@ -1,0 +1,9 @@
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.exe.config
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.exe
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.pdb
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.exe
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.pdb
+C:\Users\User\Dropbox\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\bin\Debug\01.SortArrayOfNumbers.exe.config
+C:\Users\User\Dropbox\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.exe
+C:\Users\User\Dropbox\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\01.SortArrayOfNumbers\obj\Debug\01.SortArrayOfNumbers.pdb

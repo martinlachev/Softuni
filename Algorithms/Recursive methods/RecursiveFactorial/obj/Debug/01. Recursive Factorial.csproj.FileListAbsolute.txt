@@ -1,0 +1,5 @@
+D:\Softuni\Algorithms\Recursive methods\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+D:\Softuni\Algorithms\Recursive methods\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+D:\Softuni\Algorithms\Recursive methods\RecursiveFactorial\obj\Debug\01. Recursive Factorial.csprojResolveAssemblyReference.cache
+D:\Softuni\Algorithms\Recursive methods\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+D:\Softuni\Algorithms\Recursive methods\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

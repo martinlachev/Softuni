@@ -1,0 +1,4 @@
+D:\Softuni\Algorithms\Recursive methods\Generating01Vectors\bin\Debug\Generating01Vectors.exe
+D:\Softuni\Algorithms\Recursive methods\Generating01Vectors\bin\Debug\Generating01Vectors.pdb
+D:\Softuni\Algorithms\Recursive methods\Generating01Vectors\obj\Debug\Generating01Vectors.exe
+D:\Softuni\Algorithms\Recursive methods\Generating01Vectors\obj\Debug\Generating01Vectors.pdb

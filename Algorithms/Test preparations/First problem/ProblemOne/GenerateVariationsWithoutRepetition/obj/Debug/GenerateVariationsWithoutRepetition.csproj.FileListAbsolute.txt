@@ -1,0 +1,6 @@
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsWithoutRepetition\bin\Debug\GenerateVariationsWithoutRepetition.exe.config
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsWithoutRepetition\bin\Debug\GenerateVariationsWithoutRepetition.exe
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsWithoutRepetition\bin\Debug\GenerateVariationsWithoutRepetition.pdb
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsWithoutRepetition\obj\Debug\GenerateVariationsWithoutRepetition.csprojResolveAssemblyReference.cache
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsWithoutRepetition\obj\Debug\GenerateVariationsWithoutRepetition.exe
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsWithoutRepetition\obj\Debug\GenerateVariationsWithoutRepetition.pdb

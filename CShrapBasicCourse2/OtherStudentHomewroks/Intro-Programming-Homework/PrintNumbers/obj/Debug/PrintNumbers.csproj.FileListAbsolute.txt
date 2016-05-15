@@ -1,0 +1,9 @@
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

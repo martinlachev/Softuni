@@ -1,0 +1,12 @@
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.csprojResolveAssemblyReference.cache
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.csprojResolveAssemblyReference.cache

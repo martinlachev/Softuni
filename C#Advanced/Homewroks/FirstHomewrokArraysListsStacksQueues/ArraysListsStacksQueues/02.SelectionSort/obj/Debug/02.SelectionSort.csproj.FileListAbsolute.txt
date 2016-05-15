@@ -1,0 +1,6 @@
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\02.SelectionSort\bin\Debug\02.SelectionSort.exe.config
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\02.SelectionSort\bin\Debug\02.SelectionSort.exe
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\02.SelectionSort\bin\Debug\02.SelectionSort.pdb
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\02.SelectionSort\obj\Debug\02.SelectionSort.csprojResolveAssemblyReference.cache
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\02.SelectionSort\obj\Debug\02.SelectionSort.exe
+D:\Softuni\C#Advanced\Homewroks\FirstHomewrokArraysListsStacksQueues\ArraysListsStacksQueues\02.SelectionSort\obj\Debug\02.SelectionSort.pdb

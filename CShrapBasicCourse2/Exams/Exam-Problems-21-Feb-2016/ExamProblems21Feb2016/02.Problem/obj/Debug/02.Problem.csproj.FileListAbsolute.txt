@@ -1,0 +1,5 @@
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\02.Problem\bin\Debug\02.Problem.exe.config
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\02.Problem\bin\Debug\02.Problem.exe
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\02.Problem\bin\Debug\02.Problem.pdb
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\02.Problem\obj\Debug\02.Problem.exe
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\02.Problem\obj\Debug\02.Problem.pdb

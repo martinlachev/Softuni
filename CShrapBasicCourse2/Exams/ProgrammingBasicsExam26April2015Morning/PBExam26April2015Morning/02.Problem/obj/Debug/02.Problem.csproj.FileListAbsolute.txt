@@ -1,0 +1,6 @@
+D:\Softuni\CShrapBasicCourse2\Exams\ProgrammingBasicsExam26April2015Morning\PBExam26April2015Morning\02.Problem\bin\Debug\02.Problem.exe.config
+D:\Softuni\CShrapBasicCourse2\Exams\ProgrammingBasicsExam26April2015Morning\PBExam26April2015Morning\02.Problem\bin\Debug\02.Problem.exe
+D:\Softuni\CShrapBasicCourse2\Exams\ProgrammingBasicsExam26April2015Morning\PBExam26April2015Morning\02.Problem\bin\Debug\02.Problem.pdb
+D:\Softuni\CShrapBasicCourse2\Exams\ProgrammingBasicsExam26April2015Morning\PBExam26April2015Morning\02.Problem\obj\Debug\02.Problem.exe
+D:\Softuni\CShrapBasicCourse2\Exams\ProgrammingBasicsExam26April2015Morning\PBExam26April2015Morning\02.Problem\obj\Debug\02.Problem.pdb
+D:\Softuni\CShrapBasicCourse2\Exams\ProgrammingBasicsExam26April2015Morning\PBExam26April2015Morning\02.Problem\obj\Debug\02.Problem.csprojResolveAssemblyReference.cache

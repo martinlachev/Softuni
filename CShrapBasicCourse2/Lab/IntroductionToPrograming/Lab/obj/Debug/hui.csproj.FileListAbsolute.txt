@@ -1,0 +1,6 @@
+D:\Softuni\C#BasicCourse2\Lab\Lab\bin\Debug\Lab.exe.config
+D:\Softuni\C#BasicCourse2\Lab\Lab\bin\Debug\Lab.exe
+D:\Softuni\C#BasicCourse2\Lab\Lab\bin\Debug\Lab.pdb
+D:\Softuni\C#BasicCourse2\Lab\Lab\obj\Debug\hui.csprojResolveAssemblyReference.cache
+D:\Softuni\C#BasicCourse2\Lab\Lab\obj\Debug\Lab.exe
+D:\Softuni\C#BasicCourse2\Lab\Lab\obj\Debug\Lab.pdb

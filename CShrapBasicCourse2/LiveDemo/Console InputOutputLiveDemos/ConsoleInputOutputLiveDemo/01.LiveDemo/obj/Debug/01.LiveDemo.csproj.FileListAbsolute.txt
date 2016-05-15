@@ -1,0 +1,6 @@
+D:\Softuni\C#BasicCourse2\LiveDemo\Console InputOutputLiveDemos\ConsoleInputOutputLiveDemo\01.LiveDemo\bin\Debug\01.LiveDemo.exe.config
+D:\Softuni\C#BasicCourse2\LiveDemo\Console InputOutputLiveDemos\ConsoleInputOutputLiveDemo\01.LiveDemo\bin\Debug\01.LiveDemo.exe
+D:\Softuni\C#BasicCourse2\LiveDemo\Console InputOutputLiveDemos\ConsoleInputOutputLiveDemo\01.LiveDemo\bin\Debug\01.LiveDemo.pdb
+D:\Softuni\C#BasicCourse2\LiveDemo\Console InputOutputLiveDemos\ConsoleInputOutputLiveDemo\01.LiveDemo\obj\Debug\01.LiveDemo.csprojResolveAssemblyReference.cache
+D:\Softuni\C#BasicCourse2\LiveDemo\Console InputOutputLiveDemos\ConsoleInputOutputLiveDemo\01.LiveDemo\obj\Debug\01.LiveDemo.exe
+D:\Softuni\C#BasicCourse2\LiveDemo\Console InputOutputLiveDemos\ConsoleInputOutputLiveDemo\01.LiveDemo\obj\Debug\01.LiveDemo.pdb

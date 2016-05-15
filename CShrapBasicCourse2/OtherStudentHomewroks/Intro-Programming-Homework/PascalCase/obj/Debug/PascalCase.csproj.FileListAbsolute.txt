@@ -1,0 +1,9 @@
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PascalCase\bin\Debug\PascalCase.exe.config
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PascalCase\bin\Debug\PascalCase.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PascalCase\bin\Debug\PascalCase.pdb
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PascalCase\obj\Debug\PascalCase.csprojResolveAssemblyReference.cache
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PascalCase\obj\Debug\PascalCase.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PascalCase\obj\Debug\PascalCase.pdb
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PascalCase\bin\Debug\PascalCase.exe.config
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PascalCase\obj\Debug\PascalCase.exe
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PascalCase\obj\Debug\PascalCase.pdb

@@ -1,0 +1,6 @@
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\copypaste\bin\Debug\copypaste.exe.config
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\copypaste\bin\Debug\copypaste.exe
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\copypaste\bin\Debug\copypaste.pdb
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\copypaste\obj\Debug\copypaste.csprojResolveAssemblyReference.cache
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\copypaste\obj\Debug\copypaste.exe
+D:\Softuni\CShrapBasicCourse2\Exams\Exam-Problems-21-Feb-2016\ExamProblems21Feb2016\copypaste\obj\Debug\copypaste.pdb

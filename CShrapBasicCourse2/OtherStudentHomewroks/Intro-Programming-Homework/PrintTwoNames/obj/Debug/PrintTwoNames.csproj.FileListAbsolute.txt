@@ -1,0 +1,8 @@
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintTwoNames\bin\Debug\PrintTwoNames.exe.config
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintTwoNames\bin\Debug\PrintTwoNames.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintTwoNames\bin\Debug\PrintTwoNames.pdb
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintTwoNames\obj\Debug\PrintTwoNames.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintTwoNames\obj\Debug\PrintTwoNames.pdb
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintTwoNames\bin\Debug\PrintTwoNames.exe.config
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintTwoNames\obj\Debug\PrintTwoNames.exe
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintTwoNames\obj\Debug\PrintTwoNames.pdb

@@ -1,0 +1,3 @@
+D:\Softuni\C#BasicCourse2\Exams\ProgrammingBasicsExam29March2015Evening\ProgrammingBasicsExam2903215Evenin\03.Problem\bin\Debug\03.Problem.exe.config
+D:\Softuni\C#BasicCourse2\Exams\ProgrammingBasicsExam29March2015Evening\ProgrammingBasicsExam2903215Evenin\03.Problem\obj\Debug\03.Problem.exe
+D:\Softuni\C#BasicCourse2\Exams\ProgrammingBasicsExam29March2015Evening\ProgrammingBasicsExam2903215Evenin\03.Problem\obj\Debug\03.Problem.pdb

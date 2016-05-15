@@ -1,0 +1,5 @@
+D:\Softuni\CShrapBasicCourse2\Lab\IfStatement\IfStatementLab\01.Lab\obj\x86\Debug\01.Lab.exe
+D:\Softuni\CShrapBasicCourse2\Lab\IfStatement\IfStatementLab\01.Lab\bin\Debug\01.Lab.exe
+D:\Softuni\CShrapBasicCourse2\Lab\IfStatement\IfStatementLab\01.Lab\bin\Debug\01.Lab.pdb
+D:\Softuni\CShrapBasicCourse2\Lab\IfStatement\IfStatementLab\01.Lab\obj\x86\Debug\01.Problem.csprojResolveAssemblyReference.cache
+D:\Softuni\CShrapBasicCourse2\Lab\IfStatement\IfStatementLab\01.Lab\obj\x86\Debug\01.Lab.pdb

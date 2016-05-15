@@ -1,0 +1,6 @@
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsIterative\bin\Debug\GenerateVariationsIterative.exe.config
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsIterative\bin\Debug\GenerateVariationsIterative.exe
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsIterative\bin\Debug\GenerateVariationsIterative.pdb
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsIterative\obj\Debug\GenerateVariationsIterative.csprojResolveAssemblyReference.cache
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsIterative\obj\Debug\GenerateVariationsIterative.exe
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GenerateVariationsIterative\obj\Debug\GenerateVariationsIterative.pdb

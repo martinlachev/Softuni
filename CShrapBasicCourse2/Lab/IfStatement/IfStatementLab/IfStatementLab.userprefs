@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="01.Lab/01.Problem.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.Problem/MyClass.cs">
+    <Files>
+      <File FileName="01.Lab/BiggestOfThree.cs" Line="21" Column="5" />
+      <File FileName="02.Problem/MyClass.cs" Line="8" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

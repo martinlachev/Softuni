@@ -1,0 +1,9 @@
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

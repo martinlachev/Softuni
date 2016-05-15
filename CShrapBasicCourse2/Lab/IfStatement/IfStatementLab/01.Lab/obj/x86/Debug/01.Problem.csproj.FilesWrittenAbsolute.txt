@@ -1,0 +1,5 @@
+/media/marto/DATA/Softuni/CShrapBasicCourse2/Lab/IfStatement/IfStatementLab/01.Lab/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/marto/DATA/Softuni/CShrapBasicCourse2/Lab/IfStatement/IfStatementLab/01.Lab/bin/Debug/01.Lab.exe.mdb
+/media/marto/DATA/Softuni/CShrapBasicCourse2/Lab/IfStatement/IfStatementLab/01.Lab/bin/Debug/01.Lab.exe
+/media/marto/DATA/Softuni/CShrapBasicCourse2/Lab/IfStatement/IfStatementLab/01.Lab/obj/x86/Debug/01.Lab.exe
+/media/marto/DATA/Softuni/CShrapBasicCourse2/Lab/IfStatement/IfStatementLab/01.Lab/obj/x86/Debug/01.Lab.exe.mdb

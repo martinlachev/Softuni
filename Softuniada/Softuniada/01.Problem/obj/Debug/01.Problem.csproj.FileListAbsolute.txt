@@ -1,0 +1,6 @@
+D:\Softuni\Softuniada\Softuniada\01.Problem\bin\Debug\01.Problem.exe.config
+D:\Softuni\Softuniada\Softuniada\01.Problem\bin\Debug\01.Problem.exe
+D:\Softuni\Softuniada\Softuniada\01.Problem\bin\Debug\01.Problem.pdb
+D:\Softuni\Softuniada\Softuniada\01.Problem\obj\Debug\01.Problem.csprojResolveAssemblyReference.cache
+D:\Softuni\Softuniada\Softuniada\01.Problem\obj\Debug\01.Problem.exe
+D:\Softuni\Softuniada\Softuniada\01.Problem\obj\Debug\01.Problem.pdb

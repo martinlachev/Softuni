@@ -1,0 +1,6 @@
+D:\Softuni\C#BasicCourse2\LiveDemo\PrimitiveDataTypesLiveDemos\FloatLiveDemo\bin\Debug\FloatLiveDemo.exe.config
+D:\Softuni\C#BasicCourse2\LiveDemo\PrimitiveDataTypesLiveDemos\FloatLiveDemo\bin\Debug\FloatLiveDemo.exe
+D:\Softuni\C#BasicCourse2\LiveDemo\PrimitiveDataTypesLiveDemos\FloatLiveDemo\bin\Debug\FloatLiveDemo.pdb
+D:\Softuni\C#BasicCourse2\LiveDemo\PrimitiveDataTypesLiveDemos\FloatLiveDemo\obj\Debug\FloatLiveDemo.csprojResolveAssemblyReference.cache
+D:\Softuni\C#BasicCourse2\LiveDemo\PrimitiveDataTypesLiveDemos\FloatLiveDemo\obj\Debug\FloatLiveDemo.exe
+D:\Softuni\C#BasicCourse2\LiveDemo\PrimitiveDataTypesLiveDemos\FloatLiveDemo\obj\Debug\FloatLiveDemo.pdb

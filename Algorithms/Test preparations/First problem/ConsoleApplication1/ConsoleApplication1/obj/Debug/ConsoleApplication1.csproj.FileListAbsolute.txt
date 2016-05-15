@@ -1,0 +1,6 @@
+D:\Softuni\Algorithms\Test preparations\First problem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Softuni\Algorithms\Test preparations\First problem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Softuni\Algorithms\Test preparations\First problem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Softuni\Algorithms\Test preparations\First problem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Softuni\Algorithms\Test preparations\First problem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Softuni\Algorithms\Test preparations\First problem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

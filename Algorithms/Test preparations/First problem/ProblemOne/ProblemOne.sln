@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateVariationdRecursive", "GroupOfPermutation\GenerateVariationdRecursive.csproj", "{5CB38F92-6A12-4E11-8584-A5D3DEB814EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateVariationsIterative", "GenerateVariationsIterative\GenerateVariationsIterative.csproj", "{C117B92B-189C-47B0-A05C-3012E4D605FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateVariationsWithoutRepetition", "GenerateVariationsWithoutRepetition\GenerateVariationsWithoutRepetition.csproj", "{202D535E-2ACC-4FE0-AB42-D75000324046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratPermotationRecursive", "ConsoleApplication2\GeneratPermotationRecursive.csproj", "{42F827D8-D294-4846-A8B3-552284583D73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB38F92-6A12-4E11-8584-A5D3DEB814EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB38F92-6A12-4E11-8584-A5D3DEB814EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB38F92-6A12-4E11-8584-A5D3DEB814EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB38F92-6A12-4E11-8584-A5D3DEB814EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C117B92B-189C-47B0-A05C-3012E4D605FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C117B92B-189C-47B0-A05C-3012E4D605FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C117B92B-189C-47B0-A05C-3012E4D605FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C117B92B-189C-47B0-A05C-3012E4D605FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202D535E-2ACC-4FE0-AB42-D75000324046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202D535E-2ACC-4FE0-AB42-D75000324046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202D535E-2ACC-4FE0-AB42-D75000324046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202D535E-2ACC-4FE0-AB42-D75000324046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F827D8-D294-4846-A8B3-552284583D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F827D8-D294-4846-A8B3-552284583D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F827D8-D294-4846-A8B3-552284583D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F827D8-D294-4846-A8B3-552284583D73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

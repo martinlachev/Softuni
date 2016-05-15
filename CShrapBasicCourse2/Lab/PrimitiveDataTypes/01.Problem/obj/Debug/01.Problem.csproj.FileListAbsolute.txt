@@ -1,0 +1,5 @@
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\Lab\bin\Debug\Lab.exe.config
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\Lab\bin\Debug\Lab.exe
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\Lab\bin\Debug\Lab.pdb
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\Lab\obj\Debug\Lab.exe
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\Lab\obj\Debug\Lab.pdb

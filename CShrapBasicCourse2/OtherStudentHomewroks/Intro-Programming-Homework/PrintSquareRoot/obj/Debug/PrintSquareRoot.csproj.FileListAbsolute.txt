@@ -1,0 +1,8 @@
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSquareRoot\bin\Debug\PrintSquareRoot.pdb
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+C:\Users\Poli\Desktop\VStudio\Intro-Programming-Homework\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+D:\Softuni\C#BasicCourse2\OtherStudentHomewroks\Intro-Programming-Homework\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb

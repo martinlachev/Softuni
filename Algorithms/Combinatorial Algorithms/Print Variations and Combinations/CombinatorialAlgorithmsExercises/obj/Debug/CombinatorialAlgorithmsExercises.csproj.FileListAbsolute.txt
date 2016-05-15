@@ -1,0 +1,6 @@
+D:\Softuni\Algorithms\Combinatorial Algorithms\Print Variations and Combinations\CombinatorialAlgorithmsExercises\bin\Debug\CombinatorialAlgorithmsExercises.exe.config
+D:\Softuni\Algorithms\Combinatorial Algorithms\Print Variations and Combinations\CombinatorialAlgorithmsExercises\bin\Debug\CombinatorialAlgorithmsExercises.exe
+D:\Softuni\Algorithms\Combinatorial Algorithms\Print Variations and Combinations\CombinatorialAlgorithmsExercises\bin\Debug\CombinatorialAlgorithmsExercises.pdb
+D:\Softuni\Algorithms\Combinatorial Algorithms\Print Variations and Combinations\CombinatorialAlgorithmsExercises\obj\Debug\CombinatorialAlgorithmsExercises.csprojResolveAssemblyReference.cache
+D:\Softuni\Algorithms\Combinatorial Algorithms\Print Variations and Combinations\CombinatorialAlgorithmsExercises\obj\Debug\CombinatorialAlgorithmsExercises.exe
+D:\Softuni\Algorithms\Combinatorial Algorithms\Print Variations and Combinations\CombinatorialAlgorithmsExercises\obj\Debug\CombinatorialAlgorithmsExercises.pdb

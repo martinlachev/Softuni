@@ -1,0 +1,5 @@
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\03.Problem\bin\Debug\03.Problem.exe.config
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\03.Problem\bin\Debug\03.Problem.exe
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\03.Problem\bin\Debug\03.Problem.pdb
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\03.Problem\obj\Debug\03.Problem.exe
+D:\Softuni\C#BasicCourse2\Lab\PrimitiveDataTypes\03.Problem\obj\Debug\03.Problem.pdb

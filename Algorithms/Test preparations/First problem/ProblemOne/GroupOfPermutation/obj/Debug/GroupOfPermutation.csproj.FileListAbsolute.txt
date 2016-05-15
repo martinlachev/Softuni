@@ -1,0 +1,6 @@
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GroupOfPermutation\bin\Debug\GroupOfPermutation.exe.config
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GroupOfPermutation\bin\Debug\GroupOfPermutation.exe
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GroupOfPermutation\bin\Debug\GroupOfPermutation.pdb
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GroupOfPermutation\obj\Debug\GroupOfPermutation.csprojResolveAssemblyReference.cache
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GroupOfPermutation\obj\Debug\GroupOfPermutation.exe
+D:\Softuni\Algorithms\Test preparations\First problem\ProblemOne\GroupOfPermutation\obj\Debug\GroupOfPermutation.pdb

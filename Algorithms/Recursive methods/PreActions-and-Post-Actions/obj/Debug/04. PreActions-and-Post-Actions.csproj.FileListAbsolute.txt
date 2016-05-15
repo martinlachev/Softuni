@@ -1,0 +1,6 @@
+D:\Softuni\Algorithms\Recursive methods\PreActions-and-Post-Actions\bin\Debug\PreActions-and-Post-Actions.exe.config
+D:\Softuni\Algorithms\Recursive methods\PreActions-and-Post-Actions\bin\Debug\PreActions-and-Post-Actions.exe
+D:\Softuni\Algorithms\Recursive methods\PreActions-and-Post-Actions\bin\Debug\PreActions-and-Post-Actions.pdb
+D:\Softuni\Algorithms\Recursive methods\PreActions-and-Post-Actions\obj\Debug\PreActions-and-Post-Actions.exe
+D:\Softuni\Algorithms\Recursive methods\PreActions-and-Post-Actions\obj\Debug\PreActions-and-Post-Actions.pdb
+D:\Softuni\Algorithms\Recursive methods\PreActions-and-Post-Actions\obj\Debug\04. PreActions-and-Post-Actions.csprojResolveAssemblyReference.cache
