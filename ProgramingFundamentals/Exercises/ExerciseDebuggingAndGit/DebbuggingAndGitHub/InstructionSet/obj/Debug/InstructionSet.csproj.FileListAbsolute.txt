@@ -1,0 +1,9 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\Solution1\InstructionSet\bin\Debug\InstructionSet.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\Solution1\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\Solution1\InstructionSet\bin\Debug\InstructionSet.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\Solution1\InstructionSet\bin\Debug\InstructionSet.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\Solution1\InstructionSet\obj\Debug\InstructionSet.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\Solution1\InstructionSet\obj\Debug\InstructionSet.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\DebbuggingAndGitHub\InstructionSet\bin\Debug\InstructionSet.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\DebbuggingAndGitHub\InstructionSet\obj\Debug\InstructionSet.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\DebbuggingAndGitHub\InstructionSet\obj\Debug\InstructionSet.pdb
