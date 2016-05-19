@@ -21,7 +21,7 @@ namespace BePositive
                 {
                     if (!input[j].Equals(string.Empty))
                     {
-                        int num = int.Parse(input[j]);
+                        int num = int.Parse(input[i]);
                         numbers.Add(num);
                     }
                 }

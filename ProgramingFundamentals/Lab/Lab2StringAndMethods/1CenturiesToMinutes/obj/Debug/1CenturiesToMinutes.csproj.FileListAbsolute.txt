@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\1CenturiesToMinutes\bin\Debug\1CenturiesToMinutes.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\1CenturiesToMinutes\bin\Debug\1CenturiesToMinutes.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\1CenturiesToMinutes\bin\Debug\1CenturiesToMinutes.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\1CenturiesToMinutes\obj\Debug\1CenturiesToMinutes.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\1CenturiesToMinutes\obj\Debug\1CenturiesToMinutes.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\1CenturiesToMinutes\obj\Debug\1CenturiesToMinutes.pdb

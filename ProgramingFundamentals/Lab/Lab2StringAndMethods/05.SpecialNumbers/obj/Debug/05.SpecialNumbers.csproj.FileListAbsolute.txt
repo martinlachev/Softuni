@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb

@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config

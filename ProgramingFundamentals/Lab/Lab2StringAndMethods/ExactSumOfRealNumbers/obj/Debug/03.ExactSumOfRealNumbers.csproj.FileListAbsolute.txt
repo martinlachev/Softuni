@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\Lab2StringAndMethods\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb
