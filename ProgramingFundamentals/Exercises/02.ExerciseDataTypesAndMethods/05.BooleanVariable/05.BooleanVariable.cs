@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _04.VariableInHexadecimalFormat
+namespace _05.BooleanVariable
 {
     class Program
     {
@@ -15,7 +15,15 @@ namespace _04.VariableInHexadecimalFormat
         }
         static void Converter(string input)
         {
-            Console.WriteLine(Convert.ToInt32(input,16));
+            bool trueOrFalse = Convert.ToBoolean(input);
+            if (trueOrFalse == true)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }

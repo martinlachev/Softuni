@@ -10,6 +10,16 @@ namespace _0._3PracticeCharactersAndStrings
     {
         static void Main(string[] args)
         {
+            string Softuni = "Software University";
+            char B = 'B';
+            char y = 'y';
+            char e = 'e';
+            string iLovePorgraming = "I love programming";
+            Console.WriteLine(Softuni);
+            Console.WriteLine(B);
+            Console.WriteLine(y);
+            Console.WriteLine(e);
+            Console.WriteLine(iLovePorgraming);
         }
     }
 }
