@@ -1,0 +1,5 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\02.PracticeFloatingPointNumbers\bin\Debug\02.PracticeFloatingPointNumbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\02.PracticeFloatingPointNumbers\obj\Debug\02.PracticeFloatingPointNumbers.pdb

@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\04.VariableInHexadecimalFormat\bin\Debug\04.VariableInHexadecimalFormat.exe.config

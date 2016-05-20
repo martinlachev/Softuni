@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
