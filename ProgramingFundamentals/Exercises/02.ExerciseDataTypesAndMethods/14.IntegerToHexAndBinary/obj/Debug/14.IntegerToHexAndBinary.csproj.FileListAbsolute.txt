@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\14.IntegerToHexAndBinary\obj\Debug\14.IntegerToHexAndBinary.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\14.IntegerToHexAndBinary\obj\Debug\14.IntegerToHexAndBinary.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\14.IntegerToHexAndBinary\obj\Debug\14.IntegerToHexAndBinary.pdb

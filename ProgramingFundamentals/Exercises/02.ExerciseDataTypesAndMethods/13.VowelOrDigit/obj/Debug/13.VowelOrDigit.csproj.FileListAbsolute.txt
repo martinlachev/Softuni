@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config

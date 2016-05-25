@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\22.FibonacciNumbers\bin\Debug\22.FibonacciNumbers.exe.config
