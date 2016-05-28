@@ -4,3 +4,6 @@ C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\
 C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\DebbuggingAndGitHub\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
 C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\DebbuggingAndGitHub\BePositive\obj\Debug\BePositive.exe
 C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\ExerciseDebuggingAndGit\DebbuggingAndGitHub\BePositive\obj\Debug\BePositive.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\01.ExerciseDebuggingAndGit\DebbuggingAndGitHub\BePositive\bin\Debug\BePositive.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\01.ExerciseDebuggingAndGit\DebbuggingAndGitHub\BePositive\obj\Debug\BePositive.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\01.ExerciseDebuggingAndGit\DebbuggingAndGitHub\BePositive\obj\Debug\BePositive.pdb

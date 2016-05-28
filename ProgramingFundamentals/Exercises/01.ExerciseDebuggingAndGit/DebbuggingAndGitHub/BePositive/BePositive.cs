@@ -21,7 +21,7 @@ namespace BePositive
                 {
                     if (!input[j].Equals(string.Empty))
                     {
-                        int num = int.Parse(input[i]);
+                        int num = int.Parse(input[j]);
                         numbers.Add(num);
                     }
                 }
@@ -32,7 +32,7 @@ namespace BePositive
                 {
                     int currentNum = numbers[j];
 
-                    if (currentNum > 0)
+                    if (currentNum >= 0)
                     {
                         if (found)
                         {
@@ -43,11 +43,12 @@ namespace BePositive
 
                         found = true;
                     }
-                    else
+                    else if (j + 1 < numbers.Count)
                     {
                         currentNum += numbers[j + 1];
+                        //numbers.RemoveAt(a + 1);
 
-                        if (currentNum > 0)
+                        if (currentNum >= 0)
                         {
                             if (found)
                             {
@@ -58,12 +59,21 @@ namespace BePositive
 
                             found = true;
                         }
+                        j++;
+
                     }
+
+
+                    //found = false;
                 }
 
                 if (!found)
                 {
                     Console.WriteLine("(empty)");
+                }
+                else
+                {
+                    Console.WriteLine();
                 }
             }
         }

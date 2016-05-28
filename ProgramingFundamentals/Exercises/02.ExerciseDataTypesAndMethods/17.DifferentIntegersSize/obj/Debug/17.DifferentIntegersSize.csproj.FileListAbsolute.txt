@@ -1,1 +1,6 @@
 C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\17.DifferentIntegersSize\bin\Debug\17.DifferentIntegersSize.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\17.DifferentIntegersSize\bin\Debug\17.DifferentIntegersSize.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\17.DifferentIntegersSize\bin\Debug\17.DifferentIntegersSize.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\17.DifferentIntegersSize\obj\Debug\17.DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\17.DifferentIntegersSize\obj\Debug\17.DifferentIntegersSize.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\02.ExerciseDataTypesAndMethods\17.DifferentIntegersSize\obj\Debug\17.DifferentIntegersSize.pdb

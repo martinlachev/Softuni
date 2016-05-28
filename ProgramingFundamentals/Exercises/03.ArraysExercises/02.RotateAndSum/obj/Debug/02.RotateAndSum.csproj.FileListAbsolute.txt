@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\02.RotateAndSum\bin\Debug\02.RotateAndSum.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\02.RotateAndSum\obj\Debug\02.RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\02.RotateAndSum\obj\Debug\02.RotateAndSum.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\02.RotateAndSum\obj\Debug\02.RotateAndSum.pdb

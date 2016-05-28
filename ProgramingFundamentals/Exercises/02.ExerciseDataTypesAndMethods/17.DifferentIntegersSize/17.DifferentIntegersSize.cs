@@ -11,56 +11,171 @@ namespace _17.DifferentIntegersSize
         static void Main(string[] args)
         {
 
-            long input = int.Parse(Console.ReadLine());
-            string result = "";
+            decimal input = decimal.Parse(Console.ReadLine());
+            
 
-            if (input >= sbyte.MinValue && input<=sbyte.MinValue )
+            //For Sbyte
+            if (input >= sbyte.MinValue && input<=sbyte.MaxValue )
             {
-                if (true)
+                if (input<0)
                 {
-                    
+                    Console.WriteLine("{0} can fit in:",input);
+                    Console.WriteLine("* sbyte");
+                    Console.WriteLine("* short");
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* long");
                 }
-                Console.WriteLine("{0} can fit in:");
-                Console.WriteLine("* sbyte");
-                Console.WriteLine("* byte");
-                Console.WriteLine("* short");
-                Console.WriteLine("* ushort");
-                Console.WriteLine("* int");
-                Console.WriteLine("* uint");
-                Console.WriteLine("* long");
-
-            }
-            if (input >= byte.MinValue && input <= byte.MinValue)
-            {
-                Console.WriteLine("{0} can fit in:");               
-                Console.WriteLine("* byte");
-                Console.WriteLine("* short");
-                Console.WriteLine("* ushort");
-                Console.WriteLine("* int");
-                Console.WriteLine("* uint");
-                Console.WriteLine("* long");
+                else
+                {
+                    Console.WriteLine("{0} can fit in:",input);
+                    Console.WriteLine("* sbyte");
+                    Console.WriteLine("* byte");
+                    Console.WriteLine("* short");
+                    Console.WriteLine("* ushort");
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }                
 
             }
 
-            if (input >= short.MinValue && input <= short.MinValue)
+            //For Byte
+            if (input >= byte.MinValue && input <= byte.MaxValue)
             {
-                Console.WriteLine("{0} can fit in:");                
-                Console.WriteLine("* short");
-                Console.WriteLine("* ushort");
-                Console.WriteLine("* int");
-                Console.WriteLine("* uint");
-                Console.WriteLine("* long");
+                if (input<= sbyte.MaxValue)
+                {
+                    Console.WriteLine("{0} can fit in:",input);
+                    Console.WriteLine("* sbyte");
+                    Console.WriteLine("* byte");
+                    Console.WriteLine("* short");
+                    Console.WriteLine("* ushort");
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }
+                else
+                {
+                    Console.WriteLine("{0} can fit in:",input);
+                    Console.WriteLine("* byte");
+                    Console.WriteLine("* short");
+                    Console.WriteLine("* ushort");
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }               
 
             }
-            if (input >= ushort.MinValue && input <= ushort.MinValue)
-            {
-                Console.WriteLine("{0} can fit in:");
-                Console.WriteLine("* short");
-                Console.WriteLine("* ushort");
-                Console.WriteLine("* int");
-                Console.WriteLine("* uint");
-                Console.WriteLine("* long");
 
+            //For Short
+            if (input >= short.MinValue && input <= short.MaxValue)
+            {
+                if (input < 0)
+                {
+                    Console.WriteLine("{0} can fit in:", input);                   
+                    Console.WriteLine("* short");
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* long");
+                }
+                else
+                {
+                    Console.WriteLine("{0} can fit in:",input);
+                    Console.WriteLine("* short");
+                    Console.WriteLine("* ushort");
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }
+
+
+            }
+
+            //For UShort
+            if (input >= ushort.MinValue && input <= ushort.MaxValue)
+            {
+                if (input <= short.MaxValue)
+                {
+                    Console.WriteLine("{0} can fit in:", input); 
+                    Console.WriteLine("* short");
+                    Console.WriteLine("* ushort");
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }
+                else
+                {
+                    Console.WriteLine("{0} can fit in:",input);
+                    Console.WriteLine("* ushort");
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }
+
+            }
+
+            //For Int
+            if (input >= int.MinValue && input <= int.MaxValue)
+            {
+                if (input < 0)
+                {
+                    Console.WriteLine("{0} can fit in:", input);
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* long");
+                }
+                else
+                {
+                    Console.WriteLine("{0} can fit in:",input);
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }
+
+
+            }
+
+            //For UInt
+
+            if (input >= uint.MinValue && input <= uint.MaxValue)
+            {
+                if (input <= int.MaxValue)
+                {
+                    Console.WriteLine("{0} can fit in:", input);
+                    Console.WriteLine("* int");
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }
+                else
+                {
+                    Console.WriteLine("{0} can fit in:",input);
+                    Console.WriteLine("* uint");
+                    Console.WriteLine("* long");
+                }
+
+            }
+
+
+            //For Long
+
+            if (input >= long.MinValue && input <= long.MaxValue)
+            {
+                if (input < 0)
+                {
+                    Console.WriteLine("{0} can fit in:", input);
+                    Console.WriteLine("* long");
+                }
+                
+                else
+                {
+                    Console.WriteLine("{0} can fit in:",input);                    
+                    Console.WriteLine("* long");
+                }
+
+
+            }
+
+            //Bigger than long
+            if (input> long.MaxValue || input < long.MinValue)
+            {
+                Console.WriteLine("{0} can't fit in any type",input);
             }
 
 

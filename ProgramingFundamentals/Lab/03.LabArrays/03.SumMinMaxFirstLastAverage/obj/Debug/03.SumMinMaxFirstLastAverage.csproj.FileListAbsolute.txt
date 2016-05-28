@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\03.SumMinMaxFirstLastAverage\bin\Debug\03.SumMinMaxFirstLastAverage.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\03.SumMinMaxFirstLastAverage\obj\Debug\03.SumMinMaxFirstLastAverage.pdb
