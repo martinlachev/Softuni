@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\08.SumArrays\bin\Debug\08.SumArrays.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\08.SumArrays\bin\Debug\08.SumArrays.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\08.SumArrays\bin\Debug\08.SumArrays.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\08.SumArrays\obj\Debug\08.SumArrays.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\08.SumArrays\obj\Debug\08.SumArrays.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\08.SumArrays\obj\Debug\08.SumArrays.pdb

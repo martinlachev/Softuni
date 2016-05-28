@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\07.ReverseArrayOfStrings\bin\Debug\07.ReverseArrayOfStrings.exe.config

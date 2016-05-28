@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\06.RoundingNumbers\bin\Debug\06.RoundingNumbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\06.RoundingNumbers\obj\Debug\06.RoundingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\06.RoundingNumbers\obj\Debug\06.RoundingNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\06.RoundingNumbers\obj\Debug\06.RoundingNumbers.pdb
