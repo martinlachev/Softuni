@@ -10,22 +10,25 @@ namespace _09.CondenseArrayToNumber
     {
         static void Main(string[] args)
         {
-            int[] nums = Console.ReadLine().
-                Split(' ').
-                Select(int.Parse).
-                ToArray();
-            List<int> list = new List<int>();
-            int counter = 0;
-            int sum = 0;
-            int sumList = 0;
-            for (int i = 1; i < nums.Length; i++)
+            int[] originalArray = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int finalResult = 0;
+            int firstLength = originalArray.Length - 1;
+            if (originalArray.Length > 1)
             {
-                                sum = nums[i] + nums[i - 1];
-                list.Add(sum);
+                for (int i = 0; i < firstLength; i++)
+                {
+                    int[] modifiedArray = new int[originalArray.Length - 1];
+                    for (int j = 0; j < modifiedArray.Length; j++)
+                        modifiedArray[j] = originalArray[j] + originalArray[j + 1];
+                    originalArray = modifiedArray;
+                    finalResult = modifiedArray[0];
+                }
+                Console.WriteLine(finalResult);
             }
-
-            Console.WriteLine(String.Join(" ",list));
-            Console.WriteLine(list.Sum());
+            else
+            {
+                Console.WriteLine(String.Join(" ", originalArray));
+            }
         }
     }
 }

@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SumArrays", "08.SumArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.CondenseArrayToNumber", "09.CondenseArrayToNumber\09.CondenseArrayToNumber.csproj", "{1D973B5F-C142-41C1-B31D-C7CA633DC15A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ExtractMiddleElements", "10.ExtractMiddleElements\10.ExtractMiddleElements.csproj", "{29467026-AE1B-41A2-83E9-42273C85511C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1D973B5F-C142-41C1-B31D-C7CA633DC15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D973B5F-C142-41C1-B31D-C7CA633DC15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D973B5F-C142-41C1-B31D-C7CA633DC15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29467026-AE1B-41A2-83E9-42273C85511C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29467026-AE1B-41A2-83E9-42273C85511C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29467026-AE1B-41A2-83E9-42273C85511C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29467026-AE1B-41A2-83E9-42273C85511C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

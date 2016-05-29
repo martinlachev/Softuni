@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\10.ExtractMiddleElements\bin\Debug\10.ExtractMiddleElements.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\03.LabArrays\10.ExtractMiddleElements\obj\Debug\10.ExtractMiddleElements.pdb
