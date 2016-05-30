@@ -1,1 +1,6 @@
 C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\03.FoldAndSum\bin\Debug\03.FoldAndSum.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\03.FoldAndSum\obj\Debug\03.FoldAndSum.pdb
