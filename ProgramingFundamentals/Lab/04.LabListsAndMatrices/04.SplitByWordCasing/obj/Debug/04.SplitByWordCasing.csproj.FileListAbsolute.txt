@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\04.SplitByWordCasing\bin\Debug\04.SplitByWordCasing.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\04.SplitByWordCasing\obj\Debug\04.SplitByWordCasing.pdb

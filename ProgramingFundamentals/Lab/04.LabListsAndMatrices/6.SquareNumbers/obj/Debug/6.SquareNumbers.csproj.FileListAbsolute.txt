@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\6.SquareNumbers\bin\Debug\6.SquareNumbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\6.SquareNumbers\bin\Debug\6.SquareNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\6.SquareNumbers\bin\Debug\6.SquareNumbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\6.SquareNumbers\obj\Debug\6.SquareNumbers.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\6.SquareNumbers\obj\Debug\6.SquareNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\6.SquareNumbers\obj\Debug\6.SquareNumbers.pdb

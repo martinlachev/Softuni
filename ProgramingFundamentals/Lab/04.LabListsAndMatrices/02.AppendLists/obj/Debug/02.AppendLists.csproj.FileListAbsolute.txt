@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\02.AppendLists\bin\Debug\02.AppendLists.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\02.AppendLists\bin\Debug\02.AppendLists.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\02.AppendLists\bin\Debug\02.AppendLists.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\02.AppendLists\obj\Debug\02.AppendLists.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\02.AppendLists\obj\Debug\02.AppendLists.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\02.AppendLists\obj\Debug\02.AppendLists.pdb

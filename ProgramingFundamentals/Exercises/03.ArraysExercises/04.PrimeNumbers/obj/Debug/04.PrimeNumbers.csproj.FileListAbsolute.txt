@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\04.PrimeNumbers\bin\Debug\04.PrimeNumbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\04.PrimeNumbers\bin\Debug\04.PrimeNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\04.PrimeNumbers\bin\Debug\04.PrimeNumbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\04.PrimeNumbers\obj\Debug\04.PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\04.PrimeNumbers\obj\Debug\04.PrimeNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\04.PrimeNumbers\obj\Debug\04.PrimeNumbers.pdb

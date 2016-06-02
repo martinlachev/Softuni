@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\07.CountNumbers\bin\Debug\07.CountNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\07.CountNumbers\bin\Debug\07.CountNumbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\07.CountNumbers\obj\Debug\07.CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\07.CountNumbers\obj\Debug\07.CountNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\04.LabListsAndMatrices\07.CountNumbers\obj\Debug\07.CountNumbers.pdb
