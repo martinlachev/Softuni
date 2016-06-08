@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\5.ForbiddenSubstrings\bin\Debug\5.ForbiddenSubstrings.exe.config

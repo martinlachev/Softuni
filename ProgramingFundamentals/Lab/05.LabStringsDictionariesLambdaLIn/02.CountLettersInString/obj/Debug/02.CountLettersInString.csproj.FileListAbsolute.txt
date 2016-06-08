@@ -1,0 +1,5 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\02.CountLettersInString\bin\Debug\02.CountLettersInString.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\02.CountLettersInString\bin\Debug\02.CountLettersInString.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\02.CountLettersInString\bin\Debug\02.CountLettersInString.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\02.CountLettersInString\obj\Debug\02.CountLettersInString.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\02.CountLettersInString\obj\Debug\02.CountLettersInString.pdb

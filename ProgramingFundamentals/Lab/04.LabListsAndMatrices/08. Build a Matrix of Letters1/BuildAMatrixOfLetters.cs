@@ -10,20 +10,27 @@ namespace _08.Build_a_Matrix_of_Letters1
     {
         static void Main(string[] args)
         {
-            int row = int.Parse(Console.ReadLine());
-            int col = int.Parse(Console.ReadLine());
-
-            for (int i = 0; i <= row*col; i++)
+            int rows = int.Parse(Console.ReadLine());
+            int cols = int.Parse(Console.ReadLine());
+            var matrix = new char[rows][];
+            char letter = 'A';
+            for (int row = 0; row < rows; row++)
             {
-                
-                 for (char k = (char)65; k <= (char)65 + row; k++)
-                    {
-                        Console.Write(k + i);
-                    }
-                
-               
-                
+                matrix[row] = new char[cols];
+                for (int col = 0; col < cols; col++)
+                    matrix[row][col] = letter++;
             }
+
+            for (int row = 0; row < rows; row++)
+                Console.WriteLine(string.Join(" ", matrix[row]));
+
+
+
+
+
+
         }
     }
 }
+    
+

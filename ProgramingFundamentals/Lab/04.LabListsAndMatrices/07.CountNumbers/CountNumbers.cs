@@ -10,31 +10,22 @@ namespace _07.CountNumbers
     {
         static void Main(string[] args)
         {
-            List<int> list = Console.ReadLine().
-                Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).
-                Select(int.Parse).
-                ToList();
-
-            list.Sort();
-
-            int count = 0;
-
-            for (int i = 1; i < list.Count; i++)
+            var nums = Console.ReadLine()
+                .Split(' ')
+                .Select(int.Parse).ToList();
+            nums.Sort();
+            var pos = 0;
+            while (pos < nums.Count)
             {
-                do
-                {
+                int num = nums[pos], count = 1;
+                while (pos + count < nums.Count &&
+                       nums[pos + count] == num)
                     count++;
-                    if (list[i] != list[i-1])
-                    {
-                        
-                        Console.WriteLine($"{list[i-1]} -> {count}");
-                        count = 0;
-                        
-                    }
-                    break;
-                } while (list[i] == list[i-1]);
+                pos = pos + count;
+                Console.WriteLine($"{num} -> {count}");
             }
-           
+
+
         }
     }
 }

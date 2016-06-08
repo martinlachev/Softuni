@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\07.OddOccurrences\bin\Debug\07.OddOccurrences.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\07.OddOccurrences\bin\Debug\07.OddOccurrences.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\07.OddOccurrences\bin\Debug\07.OddOccurrences.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\07.OddOccurrences\obj\Debug\07.OddOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\07.OddOccurrences\obj\Debug\07.OddOccurrences.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\07.OddOccurrences\obj\Debug\07.OddOccurrences.pdb

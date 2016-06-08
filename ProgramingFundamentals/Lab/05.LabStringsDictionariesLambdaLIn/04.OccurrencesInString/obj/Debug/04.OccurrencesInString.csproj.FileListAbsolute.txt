@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\04.OccurrencesInString\bin\Debug\04.OccurrencesInString.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\04.OccurrencesInString\obj\Debug\04.OccurrencesInString.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\04.OccurrencesInString\obj\Debug\04.OccurrencesInString.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\04.OccurrencesInString\obj\Debug\04.OccurrencesInString.pdb

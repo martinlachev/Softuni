@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\5.ForbiddenSubstrings\bin\Debug\5.ForbiddenSubstrings.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\5.ForbiddenSubstrings\bin\Debug\5.ForbiddenSubstrings.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\5.ForbiddenSubstrings\bin\Debug\5.ForbiddenSubstrings.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\5.ForbiddenSubstrings\obj\Debug\05.ForbiddenSubstrings.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\5.ForbiddenSubstrings\obj\Debug\5.ForbiddenSubstrings.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\5.ForbiddenSubstrings\obj\Debug\5.ForbiddenSubstrings.pdb
