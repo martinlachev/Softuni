@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Largest3Numbers", "08.La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ShortWordsSorted", "09.ShortWordsSorted\09.ShortWordsSorted.csproj", "{777ABC51-A5E2-49A2-B780-B9412AECBF3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.FoldSum", "10.FoldSum\10.FoldSum.csproj", "{24412B18-0094-46E6-891D-E743BD788192}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{777ABC51-A5E2-49A2-B780-B9412AECBF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{777ABC51-A5E2-49A2-B780-B9412AECBF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{777ABC51-A5E2-49A2-B780-B9412AECBF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24412B18-0094-46E6-891D-E743BD788192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24412B18-0094-46E6-891D-E743BD788192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24412B18-0094-46E6-891D-E743BD788192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24412B18-0094-46E6-891D-E743BD788192}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

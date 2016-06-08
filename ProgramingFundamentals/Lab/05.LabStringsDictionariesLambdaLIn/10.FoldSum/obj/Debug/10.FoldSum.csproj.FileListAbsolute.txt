@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\10.FoldSum\bin\Debug\10.FoldSum.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\10.FoldSum\bin\Debug\10.FoldSum.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\10.FoldSum\bin\Debug\10.FoldSum.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\10.FoldSum\obj\Debug\10.FoldSum.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\10.FoldSum\obj\Debug\10.FoldSum.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Lab\05.LabStringsDictionariesLambdaLIn\10.FoldSum\obj\Debug\10.FoldSum.pdb
