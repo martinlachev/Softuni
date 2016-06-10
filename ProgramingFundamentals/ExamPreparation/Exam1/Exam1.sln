@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SeetDesert", "01.SeetDesert\01.SeetDesert.csproj", "{7CF70252-292A-4FB7-8859-ADE9CB9C1975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ArrayModifier", "02.ArrayModifier\02.ArrayModifier.csproj", "{CA109E79-C3AB-4BFC-8325-0D30B3A46F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TargetMultiplier", "03.TargetMultiplier\03.TargetMultiplier.csproj", "{54CE6B82-7901-4FB4-A9C0-3BB0139BF5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF70252-292A-4FB7-8859-ADE9CB9C1975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF70252-292A-4FB7-8859-ADE9CB9C1975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF70252-292A-4FB7-8859-ADE9CB9C1975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF70252-292A-4FB7-8859-ADE9CB9C1975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA109E79-C3AB-4BFC-8325-0D30B3A46F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA109E79-C3AB-4BFC-8325-0D30B3A46F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA109E79-C3AB-4BFC-8325-0D30B3A46F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA109E79-C3AB-4BFC-8325-0D30B3A46F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CE6B82-7901-4FB4-A9C0-3BB0139BF5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CE6B82-7901-4FB4-A9C0-3BB0139BF5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CE6B82-7901-4FB4-A9C0-3BB0139BF5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CE6B82-7901-4FB4-A9C0-3BB0139BF5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

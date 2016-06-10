@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\03.TargetMultiplier\bin\Debug\03.TargetMultiplier.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\03.TargetMultiplier\bin\Debug\03.TargetMultiplier.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\03.TargetMultiplier\bin\Debug\03.TargetMultiplier.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\03.TargetMultiplier\obj\Debug\03.TargetMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\03.TargetMultiplier\obj\Debug\03.TargetMultiplier.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\03.TargetMultiplier\obj\Debug\03.TargetMultiplier.pdb

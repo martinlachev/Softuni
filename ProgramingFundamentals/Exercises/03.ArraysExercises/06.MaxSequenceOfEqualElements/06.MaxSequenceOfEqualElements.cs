@@ -10,22 +10,35 @@ namespace _06.MaxSequenceOfEqualElements
     {
         static void Main(string[] args)
         {
-            int[] arr = Console.ReadLine().Split(' ')
-                .Select(int.Parse).ToArray();
-            List<int> position = new List<int>();
-
-            for (int i = 1; i <arr.Length; i++)
+            var array1 = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int count_max = 0;
+            int start_max = 0;
+            int count = 0;
+            for (int i = 0; i < array1.Length - 1; i++)
             {
-                if (arr[i] == arr[i-1])
+                count = 0;
+                while (array1[i + count] == array1[i + 1 + count])
                 {
-                    for (int l = 0; l < i; l++)
+                    count++;
+                    if (i + 1 + count > array1.Length - 1)
                     {
-                        position.Add(arr[i]);
+                        break;
                     }
+
                 }
-               
+                if (count > count_max)
+                {
+                    count_max = count;
+                    start_max = i;
+                }
+
             }
-            Console.WriteLine(String.Join(" ",position));
+            for (int i = start_max; i <= start_max + count_max; i++)
+            {
+                Console.Write($"{array1[i]} ");
+            }
+            Console.WriteLine();
+
         }
     }
 }

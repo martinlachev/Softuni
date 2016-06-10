@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\02.ArrayModifier\bin\Debug\02.ArrayModifier.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\02.ArrayModifier\bin\Debug\02.ArrayModifier.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\02.ArrayModifier\bin\Debug\02.ArrayModifier.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\02.ArrayModifier\obj\Debug\02.ArrayModifier.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\02.ArrayModifier\obj\Debug\02.ArrayModifier.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\02.ArrayModifier\obj\Debug\02.ArrayModifier.pdb

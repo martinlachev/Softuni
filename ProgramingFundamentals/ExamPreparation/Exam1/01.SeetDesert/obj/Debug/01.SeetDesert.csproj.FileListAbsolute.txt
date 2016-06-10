@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\01.SeetDesert\bin\Debug\01.SeetDesert.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\01.SeetDesert\bin\Debug\01.SeetDesert.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\01.SeetDesert\bin\Debug\01.SeetDesert.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\01.SeetDesert\obj\Debug\01.SeetDesert.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\01.SeetDesert\obj\Debug\01.SeetDesert.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\ExamPreparation\Exam1\01.SeetDesert\obj\Debug\01.SeetDesert.pdb
