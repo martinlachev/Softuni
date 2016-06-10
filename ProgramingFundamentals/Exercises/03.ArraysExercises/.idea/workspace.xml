@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41547e0d-e1dc-4f8b-aa37-b6e58c983c39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vs/03.ArraysExercises/v14/.suo" afterPath="$PROJECT_DIR$/.vs/03.ArraysExercises/v14/.suo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.LargestCommonEnd/bin/Debug/01.LargestCommonEnd.exe" afterPath="$PROJECT_DIR$/01.LargestCommonEnd/bin/Debug/01.LargestCommonEnd.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.LargestCommonEnd/bin/Debug/01.LargestCommonEnd.pdb" afterPath="$PROJECT_DIR$/01.LargestCommonEnd/bin/Debug/01.LargestCommonEnd.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.LargestCommonEnd/obj/Debug/01.LargestCommonEnd.exe" afterPath="$PROJECT_DIR$/01.LargestCommonEnd/obj/Debug/01.LargestCommonEnd.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01.LargestCommonEnd/obj/Debug/01.LargestCommonEnd.pdb" afterPath="$PROJECT_DIR$/01.LargestCommonEnd/obj/Debug/01.LargestCommonEnd.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.RotateAndSum/bin/Debug/02.RotateAndSum.exe" afterPath="$PROJECT_DIR$/02.RotateAndSum/bin/Debug/02.RotateAndSum.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.RotateAndSum/bin/Debug/02.RotateAndSum.pdb" afterPath="$PROJECT_DIR$/02.RotateAndSum/bin/Debug/02.RotateAndSum.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.RotateAndSum/obj/Debug/02.RotateAndSum.exe" afterPath="$PROJECT_DIR$/02.RotateAndSum/obj/Debug/02.RotateAndSum.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.RotateAndSum/obj/Debug/02.RotateAndSum.pdb" afterPath="$PROJECT_DIR$/02.RotateAndSum/obj/Debug/02.RotateAndSum.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.FoldAndSum/bin/Debug/03.FoldAndSum.exe" afterPath="$PROJECT_DIR$/03.FoldAndSum/bin/Debug/03.FoldAndSum.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.FoldAndSum/bin/Debug/03.FoldAndSum.pdb" afterPath="$PROJECT_DIR$/03.FoldAndSum/bin/Debug/03.FoldAndSum.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.FoldAndSum/obj/Debug/03.FoldAndSum.exe" afterPath="$PROJECT_DIR$/03.FoldAndSum/obj/Debug/03.FoldAndSum.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.FoldAndSum/obj/Debug/03.FoldAndSum.pdb" afterPath="$PROJECT_DIR$/03.FoldAndSum/obj/Debug/03.FoldAndSum.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04.PrimeNumbers/bin/Debug/04.PrimeNumbers.exe" afterPath="$PROJECT_DIR$/04.PrimeNumbers/bin/Debug/04.PrimeNumbers.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04.PrimeNumbers/bin/Debug/04.PrimeNumbers.pdb" afterPath="$PROJECT_DIR$/04.PrimeNumbers/bin/Debug/04.PrimeNumbers.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04.PrimeNumbers/obj/Debug/04.PrimeNumbers.exe" afterPath="$PROJECT_DIR$/04.PrimeNumbers/obj/Debug/04.PrimeNumbers.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04.PrimeNumbers/obj/Debug/04.PrimeNumbers.pdb" afterPath="$PROJECT_DIR$/04.PrimeNumbers/obj/Debug/04.PrimeNumbers.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.CompareCharArrays/bin/Debug/05.CompareCharArrays.exe" afterPath="$PROJECT_DIR$/05.CompareCharArrays/bin/Debug/05.CompareCharArrays.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.CompareCharArrays/bin/Debug/05.CompareCharArrays.pdb" afterPath="$PROJECT_DIR$/05.CompareCharArrays/bin/Debug/05.CompareCharArrays.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.CompareCharArrays/obj/Debug/05.CompareCharArrays.exe" afterPath="$PROJECT_DIR$/05.CompareCharArrays/obj/Debug/05.CompareCharArrays.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.CompareCharArrays/obj/Debug/05.CompareCharArrays.pdb" afterPath="$PROJECT_DIR$/05.CompareCharArrays/obj/Debug/05.CompareCharArrays.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/bin/Debug/06.MaxSequenceOfEqualElements.exe" afterPath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/bin/Debug/06.MaxSequenceOfEqualElements.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/bin/Debug/06.MaxSequenceOfEqualElements.pdb" afterPath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/bin/Debug/06.MaxSequenceOfEqualElements.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/obj/Debug/06.MaxSequenceOfEqualElements.exe" afterPath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/obj/Debug/06.MaxSequenceOfEqualElements.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/obj/Debug/06.MaxSequenceOfEqualElements.pdb" afterPath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/obj/Debug/06.MaxSequenceOfEqualElements.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03.ArraysExercises.sln" afterPath="$PROJECT_DIR$/03.ArraysExercises.sln" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/06.MaxSequenceOfEqualElements.cs" afterPath="$PROJECT_DIR$/06.MaxSequenceOfEqualElements/06.MaxSequenceOfEqualElements.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07.MaxSequenceOfIncreasingElements/MaxSequenceOfIncreasingElements.cs" afterPath="$PROJECT_DIR$/07.MaxSequenceOfIncreasingElements/MaxSequenceOfIncreasingElements.cs" />
     </list>
     <ignored path="03.ArraysExercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,17 +22,17 @@
     <favorites_list name="03.ArraysExercises" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="MaxSequenceOfIncreasingElements.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07.MaxSequenceOfIncreasingElements/MaxSequenceOfIncreasingElements.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="256">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
-                <marker date="1465579291513" expanded="true" signature="6:115" ph="..." />
-                <marker date="1465579291513" expanded="true" signature="162:417" ph="{...}" />
-                <marker date="1465579291513" expanded="true" signature="206:415" ph="{...}" />
-                <marker date="1465579291513" expanded="true" signature="252:409" ph="{...}" />
+                <marker date="1465579934570" expanded="true" signature="6:115" ph="..." />
+                <marker date="1465579934570" expanded="true" signature="162:417" ph="{...}" />
+                <marker date="1465579934570" expanded="true" signature="206:415" ph="{...}" />
+                <marker date="1465579934570" expanded="true" signature="252:409" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -92,7 +66,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -105,10 +79,26 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03.ArraysExercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03.ArraysExercises" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/03.ArraysExercises.sln" />
+    <property name="SearchEverywhereHistoryKey" value="sol&#9;ACTION&#9;ActivateProjectToolWindow" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
@@ -151,24 +141,24 @@
     <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -187,23 +177,35 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/07.MaxSequenceOfIncreasingElements/MaxSequenceOfIncreasingElements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1465579934570" expanded="true" signature="6:115" ph="..." />
+            <marker date="1465579934570" expanded="true" signature="162:417" ph="{...}" />
+            <marker date="1465579934570" expanded="true" signature="206:415" ph="{...}" />
+            <marker date="1465579934570" expanded="true" signature="252:409" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03.ArraysExercises.sln">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07.MaxSequenceOfIncreasingElements/MaxSequenceOfIncreasingElements.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="256">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <marker date="1465579291513" expanded="true" signature="6:115" ph="..." />
-            <marker date="1465579291513" expanded="true" signature="162:417" ph="{...}" />
-            <marker date="1465579291513" expanded="true" signature="206:415" ph="{...}" />
-            <marker date="1465579291513" expanded="true" signature="252:409" ph="{...}" />
+            <marker date="1465579934570" expanded="true" signature="6:115" ph="..." />
+            <marker date="1465579934570" expanded="true" signature="162:417" ph="{...}" />
+            <marker date="1465579934570" expanded="true" signature="206:415" ph="{...}" />
+            <marker date="1465579934570" expanded="true" signature="252:409" ph="{...}" />
           </folding>
         </state>
       </provider>

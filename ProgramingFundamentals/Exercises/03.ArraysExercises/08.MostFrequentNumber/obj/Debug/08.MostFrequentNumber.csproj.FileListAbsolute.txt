@@ -1,0 +1,5 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\08.MostFrequentNumber\bin\Debug\08.MostFrequentNumber.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\08.MostFrequentNumber\obj\Debug\08.MostFrequentNumber.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\08.MostFrequentNumber\obj\Debug\08.MostFrequentNumber.pdb

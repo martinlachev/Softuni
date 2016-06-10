@@ -3,3 +3,4 @@ C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\
 C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\07.MaxSequenceOfIncreasingElements\bin\Debug\07.MaxSequenceOfIncreasingElements.pdb
 C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.exe
 C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\07.MaxSequenceOfIncreasingElements\obj\Debug\07.MaxSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache

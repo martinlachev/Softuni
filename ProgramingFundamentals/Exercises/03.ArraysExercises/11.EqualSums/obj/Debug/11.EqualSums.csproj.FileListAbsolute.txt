@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\03.ArraysExercises\11.EqualSums\bin\Debug\11.EqualSums.exe.config
