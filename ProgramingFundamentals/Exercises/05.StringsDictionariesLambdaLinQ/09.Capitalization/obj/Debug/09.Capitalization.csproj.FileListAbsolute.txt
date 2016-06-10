@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\05.StringsDictionariesLambdaLinQ\09.Capitalization\bin\Debug\09.Capitalization.exe.config

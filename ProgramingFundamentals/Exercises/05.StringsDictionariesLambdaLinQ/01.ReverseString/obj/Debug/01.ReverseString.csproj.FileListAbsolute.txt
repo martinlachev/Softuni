@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\05.StringsDictionariesLambdaLinQ\01.ReverseString\bin\Debug\01.ReverseString.exe.config

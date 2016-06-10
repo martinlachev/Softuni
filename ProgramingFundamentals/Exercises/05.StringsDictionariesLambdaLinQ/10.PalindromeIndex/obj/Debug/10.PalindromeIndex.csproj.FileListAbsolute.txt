@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\05.StringsDictionariesLambdaLinQ\10.PalindromeIndex\bin\Debug\10.PalindromeIndex.exe.config

@@ -10,8 +10,9 @@ namespace _02.MatrixOfPolindrome
     {
         static void Main(string[] args)
         {
-            int matrixRows = int.Parse(Console.ReadLine());
-            int matrixCols = int.Parse(Console.ReadLine());
+            string input = Console.ReadLine();
+            int matrixRows = int.Parse(input [0].ToString());
+            int matrixCols = int.Parse(input[2].ToString());
 
             string[,] polidromesMatrix = new string[matrixRows, matrixCols];
 

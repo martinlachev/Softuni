@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\05.StringsDictionariesLambdaLinQ\06.ReverseWordsInSentence\bin\Debug\06.ReverseWordsInSentence.exe.config
