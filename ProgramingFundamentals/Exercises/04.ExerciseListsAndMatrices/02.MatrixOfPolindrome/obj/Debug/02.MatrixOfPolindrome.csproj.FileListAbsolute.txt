@@ -1,0 +1,5 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\02.MatrixOfPolindrome\bin\Debug\02.MatrixOfPolindrome.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\02.MatrixOfPolindrome\bin\Debug\02.MatrixOfPolindrome.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\02.MatrixOfPolindrome\bin\Debug\02.MatrixOfPolindrome.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\02.MatrixOfPolindrome\obj\Debug\02.MatrixOfPolindrome.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\02.MatrixOfPolindrome\obj\Debug\02.MatrixOfPolindrome.pdb

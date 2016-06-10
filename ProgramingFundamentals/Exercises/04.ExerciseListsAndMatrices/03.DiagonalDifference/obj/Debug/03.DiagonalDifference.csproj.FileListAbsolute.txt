@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.exe.config

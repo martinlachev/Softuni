@@ -1,0 +1,1 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\06.HourglassSum\bin\Debug\06.HourglassSum.exe.config

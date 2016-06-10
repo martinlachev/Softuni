@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\01.MaxSequenceOfEqualElements\bin\Debug\01.MaxSequenceOfEqualElements.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\01.MaxSequenceOfEqualElements\obj\Debug\01.MaxSequenceOfEqualElements.pdb
