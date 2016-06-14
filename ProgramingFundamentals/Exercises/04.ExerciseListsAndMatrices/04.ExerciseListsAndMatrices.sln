@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MaxPlatform3x3", "05.Max
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.HourglassSum", "06.HourglassSum\06.HourglassSum.csproj", "{B8CDA75D-E2D3-4091-BD42-BD66AC14D3E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.SumReversedNumbers", "11.SumReversedNumbers\11.SumReversedNumbers.csproj", "{D9143A3B-21D3-48D4-B198-3A89B3E0FD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.BombNumbers", "12.BombNumbers\12.BombNumbers.csproj", "{713A0A80-7C46-41B4-94F8-E696ABBE498F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{B8CDA75D-E2D3-4091-BD42-BD66AC14D3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8CDA75D-E2D3-4091-BD42-BD66AC14D3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8CDA75D-E2D3-4091-BD42-BD66AC14D3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9143A3B-21D3-48D4-B198-3A89B3E0FD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9143A3B-21D3-48D4-B198-3A89B3E0FD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9143A3B-21D3-48D4-B198-3A89B3E0FD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9143A3B-21D3-48D4-B198-3A89B3E0FD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713A0A80-7C46-41B4-94F8-E696ABBE498F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713A0A80-7C46-41B4-94F8-E696ABBE498F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713A0A80-7C46-41B4-94F8-E696ABBE498F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713A0A80-7C46-41B4-94F8-E696ABBE498F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

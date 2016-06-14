@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\02.SoftUniCoffeeOrders\bin\Debug\02.SoftUniCoffeeOrders.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\02.SoftUniCoffeeOrders\bin\Debug\02.SoftUniCoffeeOrders.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\02.SoftUniCoffeeOrders\bin\Debug\02.SoftUniCoffeeOrders.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\02.SoftUniCoffeeOrders\obj\Debug\02.SoftUniCoffeeOrders.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\02.SoftUniCoffeeOrders\obj\Debug\02.SoftUniCoffeeOrders.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\02.SoftUniCoffeeOrders\obj\Debug\02.SoftUniCoffeeOrders.pdb

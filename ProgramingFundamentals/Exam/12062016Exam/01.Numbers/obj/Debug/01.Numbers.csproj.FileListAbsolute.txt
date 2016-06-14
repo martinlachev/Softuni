@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\01.Numbers\bin\Debug\01.Numbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\01.Numbers\bin\Debug\01.Numbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\01.Numbers\bin\Debug\01.Numbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\01.Numbers\obj\Debug\01.Numbers.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\01.Numbers\obj\Debug\01.Numbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\01.Numbers\obj\Debug\01.Numbers.pdb

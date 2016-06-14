@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\12.BombNumbers\bin\Debug\12.BombNumbers.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\12.BombNumbers\bin\Debug\12.BombNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\12.BombNumbers\bin\Debug\12.BombNumbers.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\12.BombNumbers\obj\Debug\12.BombNumbers.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\12.BombNumbers\obj\Debug\12.BombNumbers.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exercises\04.ExerciseListsAndMatrices\12.BombNumbers\obj\Debug\12.BombNumbers.pdb

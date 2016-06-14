@@ -1,0 +1,25 @@
+.outside{
+
+    padding: 5%;
+    border: 2px dotted;
+    border-radius: 15px;
+    border-color: blue;
+}
+.middle{
+
+    padding: 15%;
+    border: 2px dashed;
+    border-radius: 15px;
+    border-color: red;
+}
+.inside{
+
+    padding:20%;
+    border: 2px solid;
+    border-radius: 15px;
+    border-color: green;
+}
+p{
+   text-align: center;
+    font-size: 56pt;
+}

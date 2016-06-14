@@ -1,0 +1,6 @@
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\03.FootballStandings\bin\Debug\03.FootballStandings.exe.config
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\03.FootballStandings\bin\Debug\03.FootballStandings.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\03.FootballStandings\bin\Debug\03.FootballStandings.pdb
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\03.FootballStandings\obj\Debug\03.FootballStandings.csprojResolveAssemblyReference.cache
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\03.FootballStandings\obj\Debug\03.FootballStandings.exe
+C:\Users\MartinLachev\Documents\GitHub\Softuni\ProgramingFundamentals\Exam\12062016Exam\03.FootballStandings\obj\Debug\03.FootballStandings.pdb

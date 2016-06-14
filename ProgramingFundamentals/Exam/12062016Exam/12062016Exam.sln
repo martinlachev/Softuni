@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Numbers", "01.Numbers\01.Numbers.csproj", "{EB454336-EE95-4A64-BD49-A19E16D596D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SoftUniCoffeeOrders", "02.SoftUniCoffeeOrders\02.SoftUniCoffeeOrders.csproj", "{42268D07-6440-4181-8D8E-59492F413905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FootballStandings", "03.FootballStandings\03.FootballStandings.csproj", "{3A1B5791-F76F-45FF-BFC8-759015A648CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB454336-EE95-4A64-BD49-A19E16D596D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB454336-EE95-4A64-BD49-A19E16D596D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB454336-EE95-4A64-BD49-A19E16D596D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB454336-EE95-4A64-BD49-A19E16D596D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42268D07-6440-4181-8D8E-59492F413905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42268D07-6440-4181-8D8E-59492F413905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42268D07-6440-4181-8D8E-59492F413905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42268D07-6440-4181-8D8E-59492F413905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1B5791-F76F-45FF-BFC8-759015A648CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1B5791-F76F-45FF-BFC8-759015A648CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1B5791-F76F-45FF-BFC8-759015A648CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1B5791-F76F-45FF-BFC8-759015A648CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
