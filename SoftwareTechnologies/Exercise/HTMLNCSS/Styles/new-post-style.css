@@ -17,11 +17,11 @@
     text-align: center;
 
 }
-.post-form{
+#post-form{
     background: #f2f2f2;
     border-radius: 20px;
     margin: 10px;
-    display: inline-block;
+
 
 }
 .single-element-form{
