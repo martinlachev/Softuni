@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8f3ad4e-2b2e-4172-8d3f-bf40f12aa83a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/logo_sidebar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/HTMLNCSS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Styles/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/page-content.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTMLs/new-post.html" afterPath="$PROJECT_DIR$/HTMLs/new-post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Styles/new-post-style.css" afterPath="$PROJECT_DIR$/Styles/new-post-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTMLNCSS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,11 +33,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new-post.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="new-post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTMLs/new-post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="63" column="52" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+            <state relative-caret-position="306">
+              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form-style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Styles/form-style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -54,8 +56,8 @@
       <file leaf-file-name="new-post-style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Styles/new-post-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,8 +86,8 @@
         <option value="$PROJECT_DIR$/Styles/form-style.css" />
         <option value="$PROJECT_DIR$/htmldocs/new-post.html" />
         <option value="$PROJECT_DIR$/HTMLs/register.html" />
-        <option value="$PROJECT_DIR$/Styles/new-post-style.css" />
         <option value="$PROJECT_DIR$/HTMLs/new-post.html" />
+        <option value="$PROJECT_DIR$/Styles/new-post-style.css" />
       </list>
     </option>
   </component>
@@ -111,7 +113,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -124,13 +126,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -208,7 +204,7 @@
       <option name="presentableId" value="Default" />
       <updated>1466340756677</updated>
       <workItem from="1466340764851" duration="17125000" />
-      <workItem from="1466414343974" duration="394000" />
+      <workItem from="1466414343974" duration="2279000" />
     </task>
     <task id="LOCAL-00001" summary="Update5.0">
       <created>1466367997769</created>
@@ -217,14 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1466367997769</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update5.0">
+      <created>1466415192223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1466415192223</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17519000" />
+    <option name="totallyTimeSpent" value="19404000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="1" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -326,26 +329,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Styles/form-style.css">
+    <entry file="file://$PROJECT_DIR$/HTMLs/new-post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Styles/new-post-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTMLs/new-post.html">
+    <entry file="file://$PROJECT_DIR$/Styles/form-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="63" column="52" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           <folding />
         </state>
       </provider>
