@@ -1,5 +1,14 @@
 .new-post-title{
     width: 250px;
+
+
+    font: 54px Oswald;
+    font-weight: 600;
+    margin: 0 auto 50px;
+    color: #565656;
+    text-transform: uppercase;
+    text-align: center;
+    border-bottom: 8px solid #019c8c;
 }
 .new-post-block{
     background: #dadada;
