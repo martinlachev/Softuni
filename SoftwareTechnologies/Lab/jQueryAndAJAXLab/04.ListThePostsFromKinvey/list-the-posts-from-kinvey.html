@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List posts</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+
+</head>
+<body>
+<button id="loadPosts">Load Posts from Kinvey</button>
+<script>
+    $('#loadPosts').click(function() {
+        let USERNAME = "guest", PASSWORD = "asdfgh"
+        let authBase64 = btoa(USERNAME + ":" + PASSWORD)
+        $.ajax({
+            method: "GET",
+            url: "https://baas.kinvey.com/appdata/kid_BJLTAj5r/posts",
+            headers: { "Authorization": "Basic " + authBase64 },
+            success: showPosts,
+            error: showError
+        });
+    });
+    function showPosts(data, status) {
+        let ul = $('<ul>')
+        for (let post of data) {
+            ul.append($('<li>').text(
+                    post.title + " -> " + post.body));
+        }
+        $('body').append(ul);
+    }
+    function showError(data, status) {
+        let errorMsg = "Error: " + JSON.stringify(data);
+        $('body').append($('<div>').text(errorMsg));
+    }
+
+</script>
+
+</body>
+</html>

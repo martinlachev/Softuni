@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create a New Post</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+</head>
+<body>
+Title: <input type="text" id="newPostTitle" /><br>
+Body: <input type="text" id="newPostBody" /><br>
+<button id="loadPosts">Create New Post</button>
+
+<script>
+    $('#loadPosts').click(function() {
+        let USERNAME = "guest", PASSWORD = "asdfgh"
+        let authBase64 = btoa(USERNAME + ":" + PASSWORD)
+        let postData = { title: $('#newPostTitle').val(),
+            body: $('#newPostBody').val() }
+        $.ajax({
+            method: "POST",
+            url: "https://baas.kinvey.com/appdata/kid_BJLTAj5r/posts",
+            headers: { "Authorization": "Basic " + authBase64 },
+            data: postData,
+            success: showSuccess,
+            error: showError
+        });
+    });
+
+    function showSuccess(data, status) {
+        let responseMsg = "Created: " + JSON.stringify(data);
+        $('body').append($('<div>').text(responseMsg));
+    }
+
+    function showError(data, status) {
+        let errorMsg = "Error: " + JSON.stringify(data);
+        $('body').append($('<div>').text(errorMsg));
+    }
+
+
+</script>
+
+</body>
+</html>
